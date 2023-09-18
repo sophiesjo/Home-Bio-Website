@@ -1,0 +1,31 @@
+6fcc7a2	SOPHIA SJOGREN	Fri Oct 29 21:17:39 2021	Ran one last validation using the W3 system and edited a couple small things.
+9afb4ee	SOPHIA SJOGREN	Fri Oct 29 21:02:39 2021	Added some last minute css designs for fun.
+1bf78ad	SOPHIA SJOGREN	Fri Oct 29 19:10:25 2021	Wrote out the design report in the readme file
+6e35863	SOPHIA SJOGREN	Fri Oct 29 18:46:31 2021	Did final validation using the w3 validators and did some final small changes.
+fba2bf2	SOPHIA SJOGREN	Fri Oct 29 17:28:27 2021	Finished adding all the info to the main page and switched up a little css design.
+966b121	SOPHIA SJOGREN	Fri Oct 29 16:56:44 2021	Added to css so the bootstrap could help the site be used on different device sizes. Also fixed a couple edits throughout the pages.
+956e1f9	SOPHIA SJOGREN	Fri Oct 29 00:47:36 2021	Finished adding info to the visit page
+6f754a7	SOPHIA SJOGREN	Fri Oct 29 00:25:28 2021	Added more info to the visit page and finished the widget function on the visit page
+d2af04b	SOPHIA SJOGREN	Thu Oct 28 19:54:55 2021	Added more to the bootstrap widget and edited some css
+e446224	SOPHIA SJOGREN	Thu Oct 28 19:10:39 2021	Added bootstrap widget and fixed errors in other classes
+d9b35b7	SOPHIA SJOGREN	Thu Oct 28 16:59:35 2021	Finished putting history information into page and formatted the page well, also added citations
+53ad242	SOPHIA SJOGREN	Thu Oct 28 14:41:31 2021	Added more information and photos to the history page
+d5aba8f	SOPHIA SJOGREN	Thu Oct 28 13:32:19 2021	Added images to history page and cited all images across pages
+0a0e499	SOPHIA SJOGREN	Thu Oct 28 11:37:53 2021	Added bootstrap to the system and added some columns along with editing the css font to each page to override the bootstrap font
+e828871	SOPHIA SJOGREN	Wed Oct 27 15:08:23 2021	Added some credits for images and started experimenting with the columns
+361deca	SOPHIA SJOGREN	Wed Oct 27 14:14:59 2021	test commit
+d02756a	SOPHIA SJOGREN	Tue Oct 26 17:31:42 2021	Added a photo to the banner in the to do page and added different fonts to each page.
+906ca6d	SOPHIA SJOGREN	Tue Oct 26 17:04:21 2021	Added a map to the info page and messed around with some css styles.
+aed89e8	SOPHIA SJOGREN	Tue Oct 26 13:47:03 2021	Added an image as the banner in the history page and corrected some styling details, also looked into licensing of images and made sure the couple I have are legal to use.
+7b507ee	SOPHIA SJOGREN	Mon Oct 25 15:39:44 2021	Added some fun facts about Kalamazoo to the info page and fixed up the design for the navigation bar on all pages.
+5e22e18	SOPHIA SJOGREN	Mon Oct 25 15:18:01 2021	Reworked some of the design on the first page and fixed the navigation bars for each page.
+c6ce28e	SOPHIA SJOGREN	Sun Oct 24 14:29:53 2021	Trying to add a background image to the opening banner
+f5e4798	SOPHIA SJOGREN	Sun Oct 24 13:51:09 2021	Added the navigation bar
+d616514	SOPHIA SJOGREN	Sun Oct 24 13:18:43 2021	Rearranged some text and added design using css
+39e681b	SOPHIA SJOGREN	Sun Oct 24 13:04:56 2021	Added a video of a song that made Kalamazoo well known
+5282842	SOPHIA SJOGREN	Sat Oct 23 15:52:37 2021	Added CSS styling and reorganized the intro page
+d622af9	SOPHIA SJOGREN	Sat Oct 23 15:07:29 2021	Added initial introduction page outline
+b54ab1d	SOPHIA SJOGREN	Sat Oct 23 14:15:48 2021	Commit test two
+e60cf3b	SOPHIA SJOGREN	Sat Oct 23 14:13:43 2021	Merge branch 'master' of github.com:sophiesjo/firstWebsite
+c285c21	SOPHIA SJOGREN	Sat Oct 23 14:13:02 2021	Commit Message 1
+0f0c354	sophiesjo	Sat Oct 23 13:23:18 2021	Initial commit
